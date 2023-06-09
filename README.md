@@ -1,1 +1,2 @@
-Shell permissions
+#!/bin/bash
+shell basics
